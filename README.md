@@ -1,4 +1,4 @@
-# BootcampProjeto1- App Simulação de Partidas
+# BootcampProjeto1 - App Simulação de Partidas
 
 Primeiro projeto de desenvolvimento android do bootcamp santander, ministrado pela DIO.
 
