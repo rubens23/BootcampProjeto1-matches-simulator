@@ -13,8 +13,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        binding = ActivityMainBinding.inflate(getLayoutInflater());
+        binding = ActivityMainBinding.inflate(this.getLayoutInflater());
         setContentView(binding.getRoot());
+
 
     }
 }
+
